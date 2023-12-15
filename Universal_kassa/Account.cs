@@ -12,8 +12,12 @@ namespace Universal_kassa
             public decimal Balance { get; protected set; }
 
             public abstract void Deposit(decimal amount);
-             
-         }
+
+        internal bool Withdraw(decimal amount)
+        {
+            throw new NotImplementedException();
+        }
+    }
 
 }
 
