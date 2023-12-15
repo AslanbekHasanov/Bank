@@ -7,11 +7,11 @@ using Universal_kassa;
 
 namespace Bosh_menyu
 {
-    public class Bank1
+    public class BANK
     {
         private List<Client> clients;
 
-        public Bank1()
+        public BANK()
         {
             clients = new List<Client>();
         }
