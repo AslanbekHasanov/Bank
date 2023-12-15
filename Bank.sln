@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", "{A78B6F90-37CE-4065-B27E-0B8462D5784C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bank", "Bank\Bank.csproj", "{A78B6F90-37CE-4065-B27E-0B8462D5784C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bosh_menyu", "Universal_kassa\Bosh_menyu.csproj", "{AE2DD5E9-9C4B-4B12-9E9D-63CA989EFFDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A78B6F90-37CE-4065-B27E-0B8462D5784C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A78B6F90-37CE-4065-B27E-0B8462D5784C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A78B6F90-37CE-4065-B27E-0B8462D5784C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE2DD5E9-9C4B-4B12-9E9D-63CA989EFFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE2DD5E9-9C4B-4B12-9E9D-63CA989EFFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE2DD5E9-9C4B-4B12-9E9D-63CA989EFFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE2DD5E9-9C4B-4B12-9E9D-63CA989EFFDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

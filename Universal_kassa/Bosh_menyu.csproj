@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Universal_kassa\Bosh_menyu.csproj" />
-  </ItemGroup>
-
 </Project>
