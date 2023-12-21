@@ -13,11 +13,16 @@ namespace Universal_kassa
 
             public abstract void Deposit(decimal amount);
 
+        internal object GetBalance()
+        {
+            throw new NotImplementedException();
+        }
+
         internal bool Withdraw(decimal amount)
         {
             throw new NotImplementedException();
         }
-    }
+         }
 
 }
 

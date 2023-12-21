@@ -18,6 +18,10 @@ namespace Bosh_menyu
             Account = account;
         }
 
+        public Client()
+        {
+        }
+
         public string GetDetails() => $"Name: {Name}, Account number: {Account.AccountNumber}";
     }
 }
